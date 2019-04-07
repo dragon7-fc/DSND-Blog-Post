@@ -1,27 +1,36 @@
 # Project: Write A Data Science Blog Post
 
-## Key Steps for Project
-Feel free to be creative with your solutions, but do follow the CRISP-DM process in finding your solutions.
 
-1) Pick a dataset.
+### Table of Contents
 
-2) Pose at least three questions related to business or real-world applications of how the data could be used.
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-3) Create a Jupyter Notebook, using any associated packages you'd like, to:
+## Installation <a name="installation"></a>
 
-    * Prepare data:
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
-        - Gather necessary data to answer your questions
-        - Handle categorical and missing data
-        - Provide insight into the methods you chose and why you chose them
+## Project Motivation<a name="motivation"></a>
 
-    * Analyze, Model, and Visualize
+For this project, I was interestested in using Stack Overflow data from 2018 to better understand:
 
-        - Provide a clear connection between your business questions and how the data answers them.
+1. What is the hotest job?
+2. What skill should I possess?
+3. Is it worth to jump into another field of software programming?
 
-4) Communicate your business insights:
+## File Descriptions <a name="files"></a>
 
-    * Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
-    * Create a blog post to share your questions and insights with a non-technical audience
+There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-Your deliverables will be a Github repo and a blog post. Use the rubric [here](https://review.udacity.com/#!/rubrics/1507/view) to assist in successfully completing this project!
+There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here]().
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://insights.stackoverflow.com/survey).  Otherwise, feel free to use the code here as you would like! 
