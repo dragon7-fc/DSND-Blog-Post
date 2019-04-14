@@ -25,19 +25,17 @@
 
 For this project, I was interestested in using Stack Overflow data from 2018 to better understand:
 
-1. What is the hotest job?
+1. What is the hottest job?
 2. What skill should I possess?
-3. Is it worth to jump into another field of software programming?
+3. What is your desire next year?
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@dragon7.fc/who-is-the-most-valuable-software-engineer-883667a105e5).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
